@@ -1,6 +1,0 @@
-flask
-pandas
-docxtpl
-docx2pdf
-chardet
-openpyxl
