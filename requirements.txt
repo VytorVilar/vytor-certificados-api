@@ -3,3 +3,6 @@ pandas
 docxtpl
 chardet
 openpyxl
+flask-cors
+python-docx
+
